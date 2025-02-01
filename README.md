@@ -2,9 +2,9 @@
 
 <h3 align="left">I'm a Aspiring Java Full Stack Developer and Graduate from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Jdbc,Servlets,Jsp,Hibernate and also in Spring.  Take a look at my repositories - some of my best works are pinned here..</h3>
 
-👀 I’m interested in software development, frontend  technology, and cloud computing. I enjoy exploring cutting-edge technologies and working on innovative projects that make a difference.
-🌱 I’m currently learning Spring Boot, Spring Security and JWT.
-💞️ I’m looking to collaborate on Java applications, frontend -based applications, decentralized platforms, and cloud-based solutions.
+👀 I’m interested in software development, frontend  technology, and cloud computing. I enjoy exploring cutting-edge technologies and working on innovative projects that make a difference.<br>
+🌱 I’m currently learning Spring Boot, Spring Security and JWT.<br>
+💞️ I’m looking to collaborate on Java applications, frontend -based applications, decentralized platforms, and cloud-based solutions.<br>
 📫 How to reach me:
 Mail
 GitHub
