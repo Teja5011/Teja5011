@@ -3,7 +3,7 @@
 <h3 align="left">I'm a Java Full Stack Developer and Graduate from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Jdbc,Servlets,Jsp,Hibernate and also well versed in Spring.  Take a look at my repositories - some of my best works are pinned here..</h3>
 
 - 🔭 I’m currently undergoing as java full stack developer training.
-- 👯 I’m looking to collaborate on Backend Projects
+- 👯 I’m looking to collaborate on Frontend And Backend Projects
 - 📫 How to reach me **ravitejabandla5011@gmail.com**
 
 <p align="left">
