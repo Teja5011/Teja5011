@@ -25,7 +25,7 @@
 ![JDBC](https://img.shields.io/badge/JDBC-4C9EE8?style=for-the-badge&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-4C9EE8?style=for-the-badge&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-4C9EE8?style=for-the-badge&logo=java&logoColor=white)
-![JPA](https://img.shields.io/badge/JSP-4C9EE8?style=for-the-badge&logo=java&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-4C9EE8?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Cloud Technologies
