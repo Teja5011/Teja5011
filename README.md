@@ -1,12 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:061b11,50:0f5132,75:00ff99,100:000000&text=Bandla%20Ravi%20Teja&fontSize=70&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Engineer%20%7C%20Fintech%20Systems%20Architect%20%7C%20Spring%20Boot%20Developer&descAlignY=58&descColor=7CFC98"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,15:02150f,35:063b2a,55:00ff99,75:063b2a,100:000000&height=260&section=header&text=Bandla%20Ravi%20Teja&fontSize=72&fontColor=00ff99&animation=fadeIn&fontAlignY=42&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Enterprise%20Fintech%20Systems%20%E2%80%A2%20Spring%20Boot%20Microservices&descAlignY=62&descColor=8affc1" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00FF99&background=00000000&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+Java+Full-Stack+Engineer+%40+Infosys+EdgeVerve;%3E+Built+Production+APIs+Handling+50K%2B+Transactions%2FDay;%3E+Spring+Boot+%7C+Microservices+%7C+REST+APIs+%7C+CI%2FCD;%3E+Open+to+SDE-1+%2F+Backend+Engineering+Roles+%F0%9F%9F%A2" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2300&pause=800&color=00FF99&center=true&vCenter=true&width=1000&lines=%24+whoami;%3E+Java+Backend+Engineer+%40+Infosys+EdgeVerve;%3E+Building+Production-Grade+Banking+Systems;%3E+50K%2B+Daily+Transactions+Handled;%3E+15%2B+REST+APIs+Designed+%26+Shipped;%3E+Spring+Boot+%7C+Microservices+%7C+CI%2FCD+%7C+AWS;%3E+Open+to+SDE-1+%2F+Backend+Roles+%F0%9F%9F%A2" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/ROLE-JAVA_BACKEND_ENGINEER-000000?style=for-the-badge&logo=openjdk&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/COMPANY-INFOSYS_EDGEVERVE-000000?style=for-the-badge&logo=oracle&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/DOMAIN-FINTECH_SYSTEMS-000000?style=for-the-badge&logo=databricks&logoColor=00ff99"/>
 
 </div>
 
@@ -14,22 +23,9 @@
 
 <div align="center">
 
-```bash
-██████╗  █████╗ ███╗   ██╗██████╗ ██╗      █████╗ 
-██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║     ██╔══██╗
-██████╔╝███████║██╔██╗ ██║██║  ██║██║     ███████║
-██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║     ██╔══██║
-██████╔╝██║  ██║██║ ╚████║██████╔╝███████╗██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<marquee behavior="scroll" direction="left" scrollamount="9" width="92%">
 
-</div>
-
-<div align="center">
-
-<marquee behavior="alternate" scrollamount="10" width="90%">
-
-💻 Enterprise Java Engineer • ⚡ 50,000+ Banking Transactions/Day • 🚀 15+ Production REST APIs • 🏦 Fintech Systems • 🔥 Spring Boot Microservices • 🟢 Immediate Joiner • 🎯 Open to Product Companies
+⚡ Enterprise Java Engineer • Built APIs powering 50,000+ banking transactions/day • Designed scalable Spring Boot microservices • Optimized production systems • Open to high-impact Backend & SDE opportunities
 
 </marquee>
 
@@ -37,94 +33,166 @@
 
 ---
 
-# ⚡ SYSTEM.INFO()
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ABOUT_ME.md
 
 ```yaml
-Name        : Bandla Ravi Teja
-Role        : Java Full-Stack Engineer
-Company     : Infosys Ltd · EdgeVerve Systems
-Experience  : Enterprise Fintech & Banking Systems
-Focus       : Backend Engineering · Microservices · API Development
-Status      : Open to Work 🟢
-Location    : Hyderabad, India
+name: Bandla Ravi Teja
+
+role:
+  - Java Backend Engineer
+  - Full-Stack Developer
+  - Fintech Systems Engineer
+
+company:
+  Infosys Ltd:
+    division: EdgeVerve Systems
+
+expertise:
+  - Spring Boot Microservices
+  - REST API Development
+  - Enterprise Backend Systems
+  - Banking & Fintech Platforms
+  - CI/CD & Deployment Optimization
+
+currently_working_on:
+  - Finacle Banking Integrations
+  - High-throughput Backend APIs
+  - Production-grade Java Systems
+
+career_focus:
+  - Backend Engineering
+  - Distributed Systems
+  - Product-Based Companies
 ```
 
 ---
 
-# 🧠 ABOUT_ME.exe
+# ⚡ PRODUCTION_IMPACT.log
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+
+## 🚀 50K+
+
+Daily Banking Transactions
+
+</td>
+
+<td align="center" width="220">
+
+## ⚡ 15+
+
+Production REST APIs
+
+</td>
+
+<td align="center" width="220">
+
+## 🔥 ~40%
+
+Database Optimization
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="220">
+
+## 🧠 ~25%
+
+Faster Integrations
+
+</td>
+
+<td align="center" width="220">
+
+## 🛡 Zero
+
+Critical Production Defects
+
+</td>
+
+<td align="center" width="220">
+
+## 📈 ~30%
+
+Reduced Escalations
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧠 ENGINEER_PROFILE.java
 
 ```java
-class Engineer {
+public class BandlaRaviTeja {
 
-    String expertise = "Java Full-Stack Development";
-    String architecture = "Microservices & Enterprise Systems";
-    String backend = "Spring Boot + REST APIs";
-    String database = "MySQL | PostgreSQL | Oracle";
-    String cloud = "AWS | Docker | Jenkins";
+    String role = "Java Backend Engineer";
 
-    String mission =
-        "Build scalable backend systems that solve real-world problems.";
+    String specialization =
+        "Building scalable fintech and enterprise systems";
+
+    String currentWork =
+        "Spring Boot microservices & banking integrations";
+
+    String architecture =
+        "Clean APIs • Optimized Databases • Production Systems";
+
+    String mindset =
+        "Write clean code. Ship reliable systems. Scale continuously.";
 
 }
 ```
 
 ---
 
-# 📊 PRODUCTION METRICS
-
-<div align="center">
-
-| ⚡ IMPACT | 🚀 RESULT |
-|---|---|
-| Daily Banking Transactions Supported | **50,000+** |
-| REST APIs Designed & Delivered | **15+ Production APIs** |
-| CI/CD Deployment Optimization | **~20% Faster** |
-| Integration Turnaround Improvement | **~25% Faster** |
-| Database Query Optimization | **~40% Performance Gain** |
-| Escalation Reduction as POC | **~30% Lower** |
-| Production Stability | **Zero Critical Defects** |
-
-</div>
-
----
-
 # 🚀 FEATURED_PROJECTS/
+
+<div align="left">
 
 ## 🏦 Banking Web Application
 
 ```bash
-> Enterprise-grade fintech platform inspired by real banking systems
+> Enterprise banking platform inspired by production fintech systems
 ```
 
-### ⚡ Key Highlights
+### Key Engineering Highlights
 
-- Designed scalable backend architecture using Spring Boot
+- Engineered scalable Spring Boot backend architecture
 - Supported **10,000+ concurrent users**
-- Implemented transaction handling and failover logic
-- Optimized DB performance with connection pooling
-- Built production-style layered architecture
+- Implemented transaction reliability & failover logic
+- Reduced transaction failure rate under heavy load
+- Optimized connection pooling and database performance
 
-### 🛠 Stack
+### Stack
 
-`Java` `Spring Boot` `MySQL` `REST APIs` `Hibernate`
+`Java` `Spring Boot` `Hibernate` `REST APIs` `MySQL`
 
 ---
 
 ## 🍔 Food Ordering Platform
 
 ```bash
-> Full-stack multi-role ordering system with secure API architecture
+> Production-style multi-role ordering system
 ```
 
-### ⚡ Key Highlights
+### Key Engineering Highlights
 
-- Role-Based Access Control (RBAC)
-- Real-time order management flow
-- Payment gateway integration
-- Thread-safe backend endpoints
-- Optimized request handling performance
+- Built Role-Based Access Control (RBAC)
+- Integrated secure payment workflows
+- Developed thread-safe backend APIs
+- Improved processing throughput by **35%**
+- Implemented modular service architecture
 
-### 🛠 Stack
+### Stack
 
 `Java` `Spring Boot` `MySQL` `JavaScript`
 
@@ -133,71 +201,93 @@ class Engineer {
 ## 👨‍💼 Employee Management System
 
 ```bash
-> Full SDLC ownership from architecture to deployment
+> Full SDLC ownership project
 ```
 
-### ⚡ Key Highlights
+### Key Engineering Highlights
 
-- Designed relational DB schema with 10+ entities
-- Improved retrieval speed by **50%**
-- Built CRUD operations with optimized JDBC integration
-- Managed complete deployment lifecycle
+- Designed 10+ relational database entities
+- Improved retrieval performance by **50%**
+- Built optimized CRUD modules using JDBC
+- Managed architecture → development → deployment lifecycle
 
-### 🛠 Stack
+### Stack
 
 `Java` `JSP` `JDBC` `Spring Boot`
+
+</div>
 
 ---
 
 # 🛠 TECH_STACK.json
 
-<details>
-<summary>⚡ Expand Tech Arsenal</summary>
+<div align="center">
 
-<br>
+<table>
+<tr>
+<td align="center">
 
-## ☕ Backend
+### ⚡ Backend
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff99)
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff99)
+
 ![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=00ff99)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=00ff99)
 
----
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=postman&logoColor=00ff99)
 
-## 🌐 Frontend
+</td>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff99)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff99)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff99)
+<td align="center">
 
----
-
-## 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff99)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00ff99)
-
----
-
-## ☁️ DevOps & Cloud
+### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff99)
+
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff99)
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=00ff99)
+
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff99)
 
-</details>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff99)
+
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00ff99)
+
+</td>
+
+<td align="center">
+
+### 🌐 Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff99)
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff99)
+
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff99)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🏅 CERTIFICATIONS.log
+# 🏆 CERTIFICATIONS/
 
-<details>
-<summary>📜 View Certifications</summary>
-
-<br>
+<div align="center">
 
 | Certification | Issuer |
 |---|---|
@@ -205,39 +295,47 @@ class Engineer {
 | AWS Cloud Computing & Data Engineering | AWS |
 | Cisco CCNAv7 Certification | Cisco Networking Academy |
 
-</details>
+</div>
 
 ---
 
-# 📈 GITHUB_ANALYTICS/
+# 📊 GITHUB_ANALYTICS/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&background=000000&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&background=000000&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
 
 </div>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌐 CONNECT.init()
+# 🌐 CONNECT_WITH_ME/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff99)](https://linkedin.com/in/YOUR_LINKEDIN)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff99"/>
+</a>
 
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff99)](mailto:bandlateja.dev@gmail.com)
+<a href="mailto:bandlateja.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff99"/>
+</a>
 
-[![Resume](https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=00ff99)](YOUR_RESUME_LINK)
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=00ff99"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff99)](YOUR_PORTFOLIO_LINK)
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff99"/>
+</a>
 
 </div>
 
@@ -246,17 +344,14 @@ class Engineer {
 <div align="center">
 
 ```bash
-> I don't just build applications.
-> I engineer scalable systems for real users,
+> Building scalable backend systems for real users,
 > real transactions, and real business impact.
 ```
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,25:061b11,50:0f5132,75:00ff99,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,20:031d14,45:0b3d2c,70:00ff99,100:000000"/>
 
 </div>
