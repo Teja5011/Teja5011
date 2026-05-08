@@ -1,3 +1,20 @@
+# 💫 Hi 👋, I'm Bandla Ravi Teja
+**A passionate Software Engineer || BackEnd Engineer || Java & Spring from India**
+
+Email Me 👉 ✉️ **bandlateja.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working at:** Infosys Ltd
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** bandlateja.dev@gmail.com
+
+
+## 🔗 I am a Software Engineer. 😊😊
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-teja-bandla/) 
