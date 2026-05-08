@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Teja5011&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/Teja5011/Bank_Software_Application)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Teja5011&icon=0&color=0)](https://visitcount.itsvg.in)
