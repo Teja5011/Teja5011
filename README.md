@@ -28,8 +28,7 @@
 </div>
 
 ---
-
-## 👨‍💻 &nbsp;`$ cat ./about_ravi.java`
+--- 👨‍💻 &nbsp;`$ cat ./about_ravi.java`
 
 ```java
 /**
