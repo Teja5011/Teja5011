@@ -22,7 +22,7 @@
 - 💼 **Open to internships & full-time SWE roles** — [📩 Let's connect](mailto:bandlateja.dev@gmail.com)
 - 🔭 Working on: **[My Portfolio](https://teja5011.github.io/my_portfolio/Portfolio.html)**
 - 💡 Interests: **Full Stack Dev, Cloud Architecture & AI/ML**
-- 🎯 2025 Goal: **Land my first SWE role & contribute to open-source**
+- 🎯 2026 Goal: **Land my first SWE role & contribute to open-source**
 - ⚡ Fun fact: *Introvert who speaks fluently in Java, clean UI & scalable code*
 
 <br clear="right"/>
@@ -63,19 +63,7 @@
 
 ### 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Teja5011/Bank_Software_Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teja5011&repo=Bank_Software_Application&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Teja5011/Employee-Management_System-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teja5011&repo=Employee-Management_System-&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Teja5011/Teja5011-Applications_Using_Spring-Boot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teja5011&repo=Teja5011-Applications_Using_Spring-Boot&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+
 <p align="center">
   <a href="https://github.com/teja5011?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
