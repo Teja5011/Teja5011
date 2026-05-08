@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Bandla Ravi Teja
-**A passionate Software Engineer || BackEnd Engineer || Java & Spring from India**
+**A Software Engineer || BackEnd Engineer || Java & Spring from India**
 
 Email Me 👉 ✉️ **bandlateja.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
