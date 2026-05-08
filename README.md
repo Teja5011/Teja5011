@@ -1,28 +1,82 @@
-<h1 align="center">Hi 👋, I'm Bandla Ravi Teja</h1>
-<h3 align="center">A Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teja5011&label=Profile%20views&color=0e75b6&style=flat" alt="teja5011" /> </p>
+<h1 align="center">Hey 👋, I'm Bandla Ravi Teja</h1>
+<h3 align="center">Software Engineer • Java Developer • Building Scalable & Meaningful Digital Experiences</h3>
 
-- 🌱 I’m currently learning **DSA, REACT**
-
-- 👨‍💻 All of my projects are available at [https://teja5011.github.io/my_portfolio/Portfolio.html](https://teja5011.github.io/my_portfolio/Portfolio.html)
-
-- 💬 Ask me about **ANDROIOD, JAVA , SPRING**
-
-- 📫 How to reach me **bandlateja.dev@gmail.com**
-
-- ⚡ Fun fact **I’m an introvert who expresses ideas better through clean UI, scalable systems, and well-written code than small talk.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ravi-teja-bandla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-teja-bandla" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Cloud+%26+Backend+Enthusiast;Building+Clean+UI+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teja5011&show_icons=true&locale=en&layout=compact" alt="teja5011" /></p>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teja5011&show_icons=true&locale=en" alt="teja5011" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja5011&" alt="teja5011" /></p>
+- 🚀 Passionate about building **scalable backend systems & modern web applications**
+- 🌱 Currently exploring **DSA, React, System Design & Cloud**
+- 💡 Interested in **Java, Spring Boot, Full Stack Development & AI**
+- 🎯 Goal: Becoming a world-class **Software Engineer**
+- ⚡ Fun fact: *I’m an introvert who expresses ideas through clean UI, scalable systems, and well-written code.*
+
+<br>
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ravi-teja-bandla" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
+</a>
+<a href="mailto:bandlateja.dev@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
+</a>
+<a href="https://github.com/teja5011" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" />
+</a>
+</p>
+
+---
+
+### ⚒️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,python,javascript,typescript,html,css,mysql,mongodb,postgresql,git,github,docker,aws,firebase,linux,figma,vscode,postman&perline=11" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=teja5011&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=teja5011&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=teja5011&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+---
+
+### 🚀 Featured Portfolio
+
+<p align="center">
+<a href="https://teja5011.github.io/my_portfolio/Portfolio.html">
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### ✨ Quote I Believe In
+
+<p align="center">
+  <i>"Great software is built when logic meets creativity."</i>
+</p>
