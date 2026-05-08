@@ -46,14 +46,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=teja5011&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  
+ 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=teja5011&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=teja5011&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
 
 ---
 
