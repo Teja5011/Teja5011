@@ -33,7 +33,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ABOUT_ME.md
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ABOUT_ME
 
 ```yaml
 name: Bandla Ravi Teja
