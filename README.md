@@ -1,69 +1,109 @@
-<h1 align="center">Hey 👋, I'm Bandla Ravi Teja</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Cloud+%26+Backend+Enthusiast;Building+Clean+UI+%26+Scalable+Systems" alt="Typing SVG" />
+</p>
+</h1>
+
 <h3 align="center">Software Engineer • Java Developer • Building Scalable & Meaningful Digital Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Cloud+%26+Backend+Enthusiast;Building+Clean+UI+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=teja5011&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/teja5011?label=Followers&style=flat&color=0e75b6" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 About Me
 
-- 🚀 Passionate about building **scalable backend systems & modern web applications**
-- 🌱 Currently exploring **DSA, React, System Design & Cloud**
-- 💡 Interested in **Java, Spring Boot, Full Stack Development & AI**
-- 🎯 Goal: Becoming a world-class **Software Engineer**
-- ⚡ Fun fact: *I’m an introvert who expresses ideas through clean UI, scalable systems, and well-written code.*
+- 🚀 Building **scalable backend systems** with Java, Spring Boot & REST APIs
+- 🌱 Currently mastering **DSA, System Design, React & AWS Cloud**
+- 💼 **Open to internships & full-time SWE roles** — [📩 Let's connect](mailto:bandlateja.dev@gmail.com)
+- 🔭 Working on: **[My Portfolio](https://teja5011.github.io/my_portfolio/Portfolio.html)**
+- 💡 Interests: **Full Stack Dev, Cloud Architecture & AI/ML**
+- 🎯 2025 Goal: **Land my first SWE role & contribute to open-source**
+- ⚡ Fun fact: *Introvert who speaks fluently in Java, clean UI & scalable code*
 
-<br>
+<br clear="right"/>
+
+---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ravi-teja-bandla" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
-</a>
-<a href="mailto:bandlateja.dev@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
-</a>
-<a href="https://github.com/teja5011" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" />
-</a>
+  <a href="https://linkedin.com/in/ravi-teja-bandla" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
+  </a>
+  <a href="mailto:bandlateja.dev@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
+  </a>
+  <a href="https://github.com/teja5011" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" />
+  </a>
 </p>
 
 ---
 
 ### ⚒️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,python,javascript,typescript,html,css,mysql,mongodb,postgresql,git,github,docker,aws,firebase,linux,figma,vscode,postman&perline=11" />
-</p>
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" /></p>
 
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css" /></p>
+
+**Database & Cloud**
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws,firebase" /></p>
+
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode,postman" /></p>
+
+---
+
+### 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Teja5011/Bank_Software_Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teja5011&repo=Bank_Software_Application&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Teja5011/Employee-Management_System-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teja5011&repo=Employee-Management_System-&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Teja5011/Teja5011-Applications_Using_Spring-Boot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teja5011&repo=Teja5011-Applications_Using_Spring-Boot&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/teja5011?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
- 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=teja5011&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teja5011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=teja5011&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja5011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-### 🚀 Featured Portfolio
+### 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://teja5011.github.io/my_portfolio/Portfolio.html">
-  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=teja5011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -71,8 +111,17 @@
 
 ---
 
-### ✨ Quote I Believe In
+### 🚀 Portfolio
 
 <p align="center">
-  <i>"Great software is built when logic meets creativity."</i>
+  <a href="https://teja5011.github.io/my_portfolio/Portfolio.html">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Great software is built when logic meets creativity — and shipped when discipline meets passion."</i><br/>
+  — Bandla Ravi Teja
 </p>
