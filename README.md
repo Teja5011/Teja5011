@@ -225,7 +225,7 @@ public class BandlaRaviTeja extends SoftwareEngineer {
 
 ---
 
-## 📊 &nbsp;`$ cat github_stats.md`
+---
 
 <div align="center">
 
