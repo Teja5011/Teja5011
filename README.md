@@ -51,13 +51,13 @@
 <p><img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" /></p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css" /></p>
 
 **Database & Cloud**
-<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws,firebase" /></p>
+<p><img src="https://skillicons.dev/icons?i=oraclesql,mysql,postgresql,aws,firebase" /></p>
 
 **Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode,postman" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,microsoftazure" /></p>
 
 ---
 
