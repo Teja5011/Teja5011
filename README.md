@@ -48,7 +48,9 @@
 ### ⚒️ Languages & Tools
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python" />
+</p>
 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css" /></p>
