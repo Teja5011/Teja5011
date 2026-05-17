@@ -54,8 +54,7 @@
 <p><img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css" /></p>
 
 **Database, Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,unix,vscode,postman,microsoftazure,aws" /></p>
-
+<p><img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,firebase,docker,kubernetes,linux,aws" /></p>
 ---
 
 ### 🔥 Featured Projects
