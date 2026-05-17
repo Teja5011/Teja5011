@@ -53,10 +53,8 @@
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css" /></p>
 
-**Database & Cloud**
 **Database, Cloud & DevOps**
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,microsoftazure" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,unix,vscode,postman,microsoftazure,aws" /></p>
 
 ---
 
