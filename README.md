@@ -23,7 +23,7 @@
 - 🔭 Working on: **[My Portfolio](https://teja5011.github.io/my_portfolio/Portfolio.html)**
 - 💡 Interests: **Full Stack Dev, Cloud Architecture & AI/ML**
 - 🎯 2026 Goal: **Land my first SWE role & contribute to open-source**
-- ⚡ Fun fact: *Introvert who speaks fluently in Java, clean UI & scalable code*
+- ⚡ Fun fact: *⚡ Introvert who lets the code talk — fluent in Java & Spring Boot, systems engineered to scale & UIs designed to feel inevitable.*
 
 <br clear="right"/>
 
