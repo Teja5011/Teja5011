@@ -54,7 +54,7 @@
 <p><img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css" /></p>
 
 **Database & Cloud**
-<p><img src="https://skillicons.dev/icons?i=oraclesql,mysql,postgresql,aws,firebase" /></p>
+<p><img src="https://skillicons.dev/icons?i=oracle,mysql,postgresql,aws,firebase" /></p>
 
 **Tools & Platforms**
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,microsoftazure" /></p>
