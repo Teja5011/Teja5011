@@ -55,13 +55,6 @@
 
 **Database & Cloud**
 **Database, Cloud & DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,gcp,firebase,docker,kubernetes" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Oracle SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
 **Tools & Platforms**
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,microsoftazure" /></p>
 
